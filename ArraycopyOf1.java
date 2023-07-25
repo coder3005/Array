@@ -16,7 +16,7 @@ class A
             a[i]=r.nextInt();
         }
         int a2[]=Arrays.copyOf(a,6);
-        a2[5]=100
+        a2[5]=100;
         System.out.print("Data in Array2 ");
         for(int i=0;i<a.length;i++)
         {
