@@ -17,6 +17,6 @@ class A
             System.out.print(a[i]+" ");
             sum=a[i]+sum;
         }
-        System.out.print("\nAddition of Array Elements "+sum)
-;    }
+        System.out.print("\nAddition of Array Elements "+sum);
+    }
 }
